@@ -16,7 +16,7 @@
     (include-css "http://fonts.googleapis.com/css?family=Sigmar+One&v1")]
    [:body
     [:div {:id "header"}
-     [:h1 {:class "container"} "SHOUTER"]]
+     [:h1 {:class "container"} "Say It, Don't Spray It"]]
     [:div {:id "content" :class "container"} body]]))
 
 (defn four-oh-four []
